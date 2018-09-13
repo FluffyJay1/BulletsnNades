@@ -1,0 +1,12 @@
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\BulletsnNades.exe.config
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\BulletsnNades.application
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\BulletsnNades.exe
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\BulletsnNades.pdb
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Release\Engine.dll
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.Properties.Resources.resources
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.application
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.exe
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Release\BulletsnNades.pdb

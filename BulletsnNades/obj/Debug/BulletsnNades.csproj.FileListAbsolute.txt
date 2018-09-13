@@ -1,0 +1,41 @@
+C:\Users\m.yang\AppData\Local\Temporary Projects\BulletsnNades\bin\Debug\BulletsnNades.exe.config
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe.config
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.pdb
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csprojResolveAssemblyReference.cache
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.Properties.Resources.resources
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csproj.GenerateResource.Cache
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.exe
+C:\SandBox\Michael Yang\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.pdb
+I:\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe.config
+I:\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.exe
+I:\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csprojResolveAssemblyReference.cache
+I:\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.Properties.Resources.resources
+I:\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csproj.GenerateResource.Cache
+I:\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe
+I:\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.pdb
+I:\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.pdb
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe.config
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.exe
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.pdb
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.pdb
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.Properties.Resources.resources
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\bin\Debug\BulletsnNades.application
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\BulletsnNades\BulletsnNades\obj\Debug\BulletsnNades.application
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Debug\BulletsnNades.exe.config
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.exe
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.pdb
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Debug\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Debug\BulletsnNades.application
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Debug\BulletsnNades.exe
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\bin\Debug\BulletsnNades.pdb
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.Properties.Resources.resources
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.exe.manifest
+C:\Users\Michael\Desktop\Visual Studio 2012 Games\BulletsnNades - Experimental\BulletsnNades\obj\Debug\BulletsnNades.application
